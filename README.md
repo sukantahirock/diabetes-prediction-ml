@@ -58,7 +58,7 @@ matplotlib
 seaborn
 scikit-learn
 
-**🧑‍💻 Author**
+## **🧑‍💻 Author**
 - **Sukanta Nag Hirock**
 - CSE Undergrad | ML Enthusiast | Data Analyst in the Making | AI Science | Data Scientist
 - [LinkedIn](https://www.linkedin.com/in/sukanta-hirock-0bb15a34a) | [Portfolio](https://github.com/sukantahirock)
