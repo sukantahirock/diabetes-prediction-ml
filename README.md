@@ -57,7 +57,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-
+```
 ## **🧑‍💻 Author**
 - **Sukanta Nag Hirock**
 - CSE Undergrad | ML Enthusiast | Data Analyst in the Making | AI Science | Data Scientist
